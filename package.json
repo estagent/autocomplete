@@ -1,0 +1,18 @@
+{
+  "name": "@revgaming/autocomplete",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.1",
+  "homepage": "https://github.com/estagent/autocomplete",
+  "description": "vue3  testing for @trevoreyre/autocomplete-vue",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "autocomplete",
+    "vue",
+    "vue3"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "vue": "^3.0.4"
+  }
+}
